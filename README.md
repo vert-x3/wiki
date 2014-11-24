@@ -1,4 +1,3 @@
-wiki
-====
+# Vert.x 3 Wiki repository
 
-The wiki for the vert-x3 organisation
+We use this repository to host the wiki for the vert-x3 organisation
