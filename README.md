@@ -1,4 +1,4 @@
-# Vert.x 3 Wiki and GitHib Issues
+# Vert.x 3 Wiki and GitHub Issues
 
 We use this repository to host [issues](https://github.com/vert-x3/issues-and-wiki/issues) related to high level planning for Vert.x 3 and other general issues that apply to Vert.x 3 as a whole rather than a specific sub project.
 
